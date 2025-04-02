@@ -1,0 +1,14 @@
+{
+  "name": "average-calculator-microservice",
+  "version": "1.0.0",
+  "description": "Average Calculator HTTP Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5"
+  }
+} 
